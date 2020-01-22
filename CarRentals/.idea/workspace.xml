@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
@@ -113,6 +116,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1WQSPIgvDBwXt0giC9J6PIXJtaw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -156,6 +160,7 @@
       <workItem from="1579419115909" duration="23333000" />
       <workItem from="1579680038602" duration="792000" />
       <workItem from="1579701178364" duration="3297000" />
+      <workItem from="1579709789763" duration="15000" />
     </task>
     <servers />
   </component>
